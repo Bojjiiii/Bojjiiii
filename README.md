@@ -11,12 +11,14 @@
 ░░░█░░░█░░█░░░█░░░█████░█░░█░░░░░░█░░░█░░░░░░░░░████████░░██████░░█░░░█░░░░█░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
+# 
 # Welcome to my profile!
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat) ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 <div class="github-introduction">
 
-I'm a **Web Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
+
+I'm an **Aspiring Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
 
 Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
 
