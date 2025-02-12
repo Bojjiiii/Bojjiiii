@@ -49,7 +49,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 <h3 align="center">Web Development</h3>
 
-<div align="center">
+<div align="center" class="badges-githubstats">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -116,7 +116,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
         <br>C++
       </td>
 
-    </tr>
+
   </tbody>
 </table>
 </div>
@@ -137,7 +137,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
         <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/mariadb-icon.png" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
 
-    </tr>
+
   </tbody>
 </table>
 </div>
