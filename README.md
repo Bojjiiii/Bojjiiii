@@ -18,10 +18,6 @@
 Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 </div>
 
-## 🌟 Featured Projects
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **HelpHub**: A web-based ticketing system for the Management Information Office of DHVSU using PHP, Javascript, HTML, and CSS.  
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **Banana is Yellow!**: A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **3GenPharma**: A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
 
 
 ## 📈 My GitHub stats
@@ -33,13 +29,39 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
   </p>
 </div>
 
-## 🔍 more about me 
 
-<div>
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="300" height="200">
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png""  alt="HelpHub"/>
+      <br>
+      <strong>HelpHub</strong>
+      <br>
+      A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png"  alt="Banana is Yellow!"/>
+      <br>
+      <strong>Banana is Yellow!</strong>
+      <br>
+      A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
+    </td>
+    <td align="center" width="300" height="200">
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="3GenPharma"/>
+      <br>
+      <strong>3GenPharma</strong>
+      <br>
+      A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
+    </td>
+  </tr>
+
+</table>
 
 </div>
----
-
 
 
 
@@ -149,38 +171,6 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 <br>
 
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png""  alt="HelpHub"/>
-      <br>
-      <strong>HelpHub</strong>
-      <br>
-      A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png"  alt="Banana is Yellow!"/>
-      <br>
-      <strong>Banana is Yellow!</strong>
-      <br>
-      A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="3GenPharma"/>
-      <br>
-      <strong>3GenPharma</strong>
-      <br>
-      A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
-    </td>
-  </tr>
-
-</table>
-
-</div>
 
 <br>
 
@@ -271,126 +261,15 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 
 
-<details>
-<summary>GIFs, Memes, and Jokes</summary>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/docker-pull-ubuntu.gif" />
-      </td>
-      <td>
-        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/linus-tech.gif" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/feature-tree.gif" />
-      </td>
-      <td>
-        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/do-not-run-python-python-computer.gif" />
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
-
-</br>
 
 
 
 
 
 
-<h2 align="center">🎵 My Spotify Playlist</h2>
-
-Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions, fueling creativity, or simply unwinding. Each track has been selected to ensure an uninterrupted, high-quality audio experience.
-<h5 align="center">Enjoy the tunes!</h5>
-<p align="center">
-<a href="https://open.spotify.com/playlist/3ilkWwO6fhn43pkqKXn1Px?si=f04db909fd8342eb" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
-</a>
-
-
-</p>
 
 
 
-<h3 align="center">Top Artists of Playlist</h3>
-
-<div align="center">
-  <div style="text-align:center"><img src="https://card.elwan.ch/?username=31hah4yq6es2tjearprp6ir2bmhi" /></div>
-
-  <table>
-    <tr>
-      <td>
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hah4yq6es2tjearprp6ir2bmhi&count=5">
-      </td>
-      <td>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31hah4yq6es2tjearprp6ir2bmhi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-      </td>
-    </tr>
-  </table>
-
-  <details>
-    <summary>View Data Card for Spotify</summary>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31hah4yq6es2tjearprp6ir2bmhi">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31hah4yq6es2tjearprp6ir2bmhi" alt="Data Card for Spotify">
-    </a>
-  </details>
-</div>
-
-
-
-
-<h2 align="center">Support Me</h2>
-<div align="center">
-  <table align="center">
-    <tr>
-      <th align="center">
-        <a href="https://www.buymeacoffee.com/Bojjiiii" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
-          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-        </a>
-      </th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/Bojjiiii/Bojjiiii/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-       <img src="https://github.com/Bojjiiii/Bojjiiii/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
-      </td>
-    </tr>
-  </table>
 
 
 
