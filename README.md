@@ -25,7 +25,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Bojjiiii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Bojjiiii's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bojjiiii&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bojjiiii&theme=tokyonight&hide_border=true" alt="Bojjiiii's Streak" height="165">
   </p>
 </div>
 <div align="center">
