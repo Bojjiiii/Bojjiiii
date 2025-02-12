@@ -111,6 +111,88 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 </table>
 </div>
 
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Backend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://php.net/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>PHP
+      </td>
+           <td align="center" style="border: none;">
+        <a href="https://php.net/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="Next.js"/>
+        </a>
+        <br>C++
+      </td>
+
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mariadb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<h3 align="center">Cloud Computing & DevOps</h3>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 ## 🏆 Featured Projects
 
 <div align="center">
@@ -323,3 +405,8 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 </h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
+
+
+
+
