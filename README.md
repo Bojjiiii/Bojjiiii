@@ -83,7 +83,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineerdsdasd;Full-asdasdaStack+Developer;Cloud+Enasdasdgineer;AI+Engineeaasdasdr;asdYouTuber;Streaasdasdasdmer;Edasdasdasitor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=9400D3&center=true&vCenter=true&width=435&lines=Information+Technology;Full-Stack+Developer;Artist;Full+Time+Weeb;" alt="Typing SVG" />
 
 </p>
 
