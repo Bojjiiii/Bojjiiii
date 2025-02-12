@@ -192,105 +192,38 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.Bojjiiii.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.youtube.com/@KnightGamer87" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/knightgamer87/" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/kenan-gain-33048518a/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://facebook.com/kenan.gain" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://twitch.tv/knightgamer2910" target="_blank">
-          <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://x.com/gain_kenan" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.reddit.com/user/Automated_Artistry" target="_blank">
-          <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Bojjiiii" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <a href="https://dhvsuhelphub.com/felix-portfolio/index.html/" target="_blank">
+      <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
+    </a>
+    <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://www.linkedin.com/in/jhon-felix-pascual/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Bojjiiii" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 </div>
 
-
-
-
-
-<br>
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=60598F&style=flat&label=Profile+Views" alt="Profile views" width="200" height="35">
+
+ 
 </p>
-<div align="center">
 
 
 
 
-
-<br>
 
 
 
 <br>
 
-<div align="center">
-  <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
-  </h2>
-</div>
-
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank">
-          <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-        </a>
-    <h3>
-     <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-  Follow Me on Instagram
-</a>
-    </h3>
-  </div>
 
 
 
