@@ -58,7 +58,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.kenangain.com/" target="_blank">
+        <a href="https://www.Bojjiiii.com/" target="_blank">
           <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
         </a>
       </td>
@@ -107,7 +107,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/KenanGain" target="_blank">
+        <a href="https://github.com/Bojjiiii" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         </a>
       </td>
@@ -123,20 +123,20 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 <div align="center">
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bojjiiii&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bojjiiii&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojjiiii&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
@@ -177,45 +177,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
       A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
     </td>
   </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
-      <br>
-      <strong>AI-Powered Content Creation</strong>
-      <br>
-      Automated content generation using various LLMs
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
-      <br>
-      <strong>MapleLaw AI</strong>
-      <br>
-      Legal information assistant for Canadian citizens
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
-      <br>
-      <strong>4K60 Streaming Setup</strong>
-      <br>
-      High-performance streaming with instant replay
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
-      <br>
-      <strong>Cloud-Native Web Apps</strong>
-      <br>
-      Next.js, React, Django with Docker & Kubernetes
-    </td>
-    <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
-      <br>
-      <strong>Next Project?</strong>
-      <br>
-      Let's collaborate on something amazing!
-    </td>
-  </tr>
+
 </table>
 
 </div>
@@ -224,7 +186,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+    Socials Stats <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
   </h2>
 </div>
 
@@ -323,18 +285,18 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/docker-pull-ubuntu.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/linus-tech.gif" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
+        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/feature-tree.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
+        <img src="https://github.com/Bojjiiii/Bojjiiii/blob/main/Gif/do-not-run-python-python-computer.gif" />
       </td>
     </tr>
   </table>
@@ -394,7 +356,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+        <a href="https://www.buymeacoffee.com/Bojjiiii" target="_blank">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
         </a>
       </th>
@@ -416,10 +378,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://github.com/Bojjiiii/Bojjiiii/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/Bojjiiii/Bojjiiii/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
@@ -445,10 +407,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <tbody>
     <tr>
       <td align="center">
-        <a href="mailto:kenangain2910@gmail.com" target="_blank">
+        <a href="mailto:Bojjiiii2910@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
           <br>
-          kenangain2910@gmail.com
+          Bojjiiii2910@gmail.com
         </a>
       </td>
       <td align="center">
@@ -474,7 +436,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [Bojjiiii](https://github.com/Bojjiiii) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
