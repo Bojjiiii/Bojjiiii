@@ -16,13 +16,13 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat)  
 
 <div class="github-introduction">
-Hey there! I'm a weeb, artist  and an aspiring developer!
+Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 </div>
 
 ## 🌟 Featured Projects
 
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png" alt="Banana is Yellow!" width="10" height="10">
-**[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme**  
+<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png" alt="Banana is Yellow!" width="40" height="40"  style="border-radius: 50%;">
+**[Banana is Yellow!]** 🟣: **Violet Void Theme**  
 - 
 - I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
 
