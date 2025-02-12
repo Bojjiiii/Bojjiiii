@@ -13,7 +13,6 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 
 # Welcome to my profile!
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat)  
 
 <div class="github-introduction">
 Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
@@ -44,25 +43,11 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<div align="center">
-  <a href="https://bento.me/kenangain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
-
-
-  </a>
-</div>
-
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Kenan Gain</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
 
-</p>
-
-<p align="center">
-  Content Creator | Gamer | Tech Enthusiast
 </p>
 
 <div align="center">
@@ -140,20 +125,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
-<h3 align="center">Git Stats</h3>
-
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-<br>
 <div align="center">
 <table>
   <tr>
@@ -171,270 +143,11 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
-
-
-</details>
-
-
-<br>
-
-### KenanGain/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
-
-[![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for KenanGain&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#KenanGain/KenanGain&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=KenanGain" alt="GitHub Trophies for KenanGain">
-</details>
-
-
-
-</div>
-
-<br>
-
-# Videos & Documentries
-
-[![AI Intro](https://github.com/KenanGain/KenanGain/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
-      <p>
-        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
-      </p>
-
-
-<br>
-
-<br>
-
-# Multiple Pathways to Innovation: Explore My SaaS Products
-
-<br>
-<br>
-
-## 🍁 MapleLawAI: Your Comprehensive Legal Companion
-
-<a href="https://maplelawai.com">View Demo</a>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20200423.png" width="100%" alt="Empowering Legal Access">
-      </a>
-    </td>
-    <td>
-      <a href="https://maplelawai.com">
-        <img src="/saasimages/Screenshot%202024-09-25%20202326.png" width="100%" alt="User-Friendly Interface">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><strong>Welcome to 🍁 <a href="https://maplelawai.com">MapleLawAI</a>,</strong> your all-in-one AI-powered legal tool designed to support Canadian citizens, lawyers, immigrants, law students, and small businesses. Imagine a world where legal barriers no longer exist—where access to legal knowledge and services is a right for every Canadian, regardless of their background or financial standing. This is not merely a vision; it is the reality 🍁MapleLawAI is creating.</p>
-      <p>🍁<strong>MapleLawAI</strong> is an avant-garde platform set to revolutionize the legal sector in Canada. Developed for both clients and legal professionals, this platform stands as a beacon of innovation, efficiency, and accessibility. By leveraging the most advanced Large Language Models (LLMs) and a comprehensive vector database containing all Canadian legal documents, MapleLawAI ensures access to the most accurate and up-to-date legal information.</p>
-      <p>The Next.js application, styled with ShadCN Tailwind CSS, offers a seamless and intuitive user experience. Integrated with Clerk for secure authentication and powered by the Vercel AI SDK with edge runtime capabilities, MapleLawAI delivers swift AI responses and reliable performance. Whether researching case law, preparing for court, or seeking legal advice, MapleLawAI serves as a trusted partner.</p>
-      <p>The development does not stop here. MapleLawAI is continually evolving with future features such as a virtual courthouse, where arguments can be presented and a virtual judge delivers justice. The platform will also analyze case law to provide statistics and insightful answers, complemented by comprehensive dashboards and a robust research platform. Additionally, there are plans to expand globally with specialized legal AI tools including Egale Legal AI for the USA, JusticeMate AI for Australia, RedBusLaw AI for the UK, MaoriJusticeAI for New Zealand, and FrankfurtLegalBot for Germany.</p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Features and Highlights</strong></summary>
-  <table>
-    <tr>
-      <th>Upcoming Features</th>
-      <th>Current Features</th>
-    </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li><strong>Virtual Courthouse</strong>: Present and argue cases in a fully virtual environment with a virtual judge.</li>
-          <li><strong>Comprehensive Case Analysis</strong>: Access detailed statistics and insights from extensive case law data.</li>
-          <li><strong>Global Expansion</strong>: Introducing specialized legal AI tools for the USA, Australia, UK, New Zealand, and Germany.</li>
-          <li><strong>Enhanced Dashboards</strong>: Advanced dashboards for better data visualization and decision-making.</li>
-          <li><strong>Research Platform</strong>: A dedicated platform for in-depth legal research and analysis.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li><strong>Best LLM Models Available</strong>: Utilizes the most advanced language models for accurate legal assistance.</li>
-          <li><strong>Comprehensive Vector Database</strong>: Access to a vast repository of Canadian legal documents and resources.</li>
-          <li><strong>Secure Authentication</strong>: Integrated with Clerk to ensure reliable and secure user access.</li>
-          <li><strong>Next.js Application</strong>: A robust and scalable web application framework for optimal performance.</li>
-          <li><strong>ShadCN Tailwind CSS</strong>: Stylish and responsive design for an excellent user experience.</li>
-          <li><strong>Vercel AI SDK & Edge Runtime</strong>: Delivers fast AI responses and efficient processing.</li>
-          <li><strong>Continuous Updates</strong>: Regular enhancements and feature additions to keep the platform cutting-edge.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <strong>Quick Start:</strong> Visit <a href="https://maplelawai.com">MapleLawAI</a> today to revolutionize your legal interactions. Whether seeking legal advice, conducting research, or managing a legal practice, MapleLawAI provides the necessary tools and knowledge.
-      </td>
-    </tr>
-  </table>
-</details>
 
 
 
 <br>
 
-## Document Whispers: AI Answers, Knowledge Revealed
-<a href="https://documentwhispers.com">View Demo</a>
-<table>
-  <tr>
-    <td>
-      <a href="https://documentwhispers.com">
-        <img src="/saasimages/Screenshot 2024-09-08 164129.png" width="100%" alt="Unlock the Voice of PDF">
-      </a>
-    </td>
-    <td>
-      <a href="https://documentwhispers.com">
-        <img src="/saasimages/Screenshot 2024-09-08 170328.png" width="100%" alt="Document Interface">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p><strong>Welcome to 'Document Whispers',</strong> the future of document interaction. This modern web application transforms how you engage with your PDFs by allowing you to upload documents and chat directly with them. Powered by the cutting-edge Vercel AI SDK, 'Document Whispers' provides blazing-fast AI responses, making it your go-to tool for quick answers to assignments and research inquiries.</p>
-      <p>Our platform not only lets you read documents as you interact with them, but also ensures that your queries are thoroughly analyzed to provide high-quality, well-researched answers. Leveraging the largest and most advanced language models, our generative AI digs deep into your questions, offering precise and insightful responses.</p>
-      <p>Built on robust serverless technology for seamless performance and protected by Clerk for top-tier authentication, 'Document Whispers' is continually evolving. Stay tuned for more innovative features that will redefine your document handling experience!</p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><strong>Features and Highlights</strong></summary>
-  <table>
-    <tr>
-      <th>Upcoming Features</th>
-      <th>Features</th>
-    </tr>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li><strong>Multilingual Support</strong>: To help users worldwide engage with their documents.</li>
-          <li><strong>Mobile Application</strong>: Access Document Whispers on the go with our upcoming mobile app.</li>
-          <li><strong>Enhanced Security Measures</strong>: Additional layers of security to protect your sensitive information.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li><strong>AI-Powered Interaction</strong>: Engage with your documents through natural language conversations.</li>
-          <li><strong>Real-Time Processing</strong>: Upload and start conversing with your documents without any delay.</li>
-          <li><strong>Advanced Query Understanding</strong>: Utilizes the latest in AI technology to comprehend and respond to inquiries accurately.</li>
-          <li><strong>Serverless Architecture</strong>: Ensures high availability and scalability without the hassle of infrastructure management.</li>
-          <li><strong>Secure Authentication</strong>: Integrates with Clerk to provide reliable and secure access to the platform.</li>
-          <li><strong>Continuous Updates</strong>: Regular updates to add new features and enhance the user experience.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <strong>Quick Start:</strong> Visit <a href="https://documentwhispers.com">Document Whispers</a> to start transforming your PDF interactions today. Explore the possibilities of engaging with your documents in a way you never thought possible.
-      </td>
-    </tr>
-  </table>
-</details>
-
-# Coming soon
-
- <img  width="25%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
-
-<h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
-
-<p><strong>Super GPT</strong> is here to unite the world’s top LLMs, because why settle for one when you can have them all? Currently in development, this powerhouse is over-prepared to handle web searches, document interrogation, and even video analysis. If you need something found, explained, or overanalyzed, Super GPT has you covered.</p>
-
-<p>Mixing small and large language models like a tech smoothie, Super GPT doesn’t just answer questions; it contemplates existence. With a sleek UI that practically <em>whispers</em> “futuristic,” Super GPT is setting a gold standard in AI that we’re almost certain no one actually asked for—but everyone will soon need.</p>
-
-<hr>
-
-<h2>🔍 Ultimate AI Search Engine: For When You Want Answers, Not Opinions</h2>
-
-<p>Enter the <strong>Ultimate AI Search Engine</strong>—because good enough is simply unacceptable. This ambitious project aims to put SearchGPT to shame, pulling in multiple LLMs for a layered, context-savvy search experience that adjusts to your wildest curiosities.</p>
-
-<p>Built to do more than just “find stuff,” the Ultimate AI Search Engine promises to dive headfirst into the internet's abyss and return with gems of wisdom. From web, document, and knowledge retrieval, it’s your go-to for precise answers and the kind of search results that will leave you wondering how you ever managed without it.</p>
-
-
-<br>
 
 ## 🏆 Featured Projects
 
@@ -443,25 +156,25 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png""  alt="HelpHub"/>
       <br>
-      <strong>Sara AI for Canadian Tire</strong>
+      <strong>HelpHub</strong>
       <br>
-      AI-enhanced shopping experience
+      A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.  
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png"  alt="Banana is Yellow!"/>
       <br>
-      <strong>Weather-3D-AI App</strong>
+      <strong>Banana is Yellow!</strong>
       <br>
-      Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
+      A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
+      <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="3GenPharma"/>
       <br>
-      <strong>Fast-Gemini-Nano</strong>
+      <strong>3GenPharma</strong>
       <br>
-      Local LLM Chrome AI – extremely fast, still in development but highly promising
+      A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
     </td>
   </tr>
   <tr>
@@ -596,7 +309,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 
-
 <details>
 <summary>GIFs, Memes, and Jokes</summary>
 <div align="center">
@@ -630,13 +342,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </details>
 
 </br>
-<details>
-  <summary>Wanna Play a Game?</summary>
 
-  <h2 align="center">Enjoy the Game!</h2>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="Dino Game" />
-  <br />
-</details>
 
 
 
