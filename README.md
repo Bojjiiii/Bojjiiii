@@ -12,7 +12,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 
-# Welcome to my profile!
+# 
 
 <div class="github-introduction">
 Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
@@ -28,7 +28,22 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bojjiiii&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bojjiiii&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bojjiiii&theme=tokyonight&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojjiiii&theme=tokyonight&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
 
+</div>
 
 ## 🏆 Featured Projects
 
@@ -148,22 +163,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
   <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 <div align="center">
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bojjiiii&hide=html&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bojjiiii&theme=tokyonight&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bojjiiii&theme=tokyonight&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
 
-</div>
 
 
 
@@ -182,11 +182,11 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+    <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
         </a>
     <h3>
-     <a href="https://www.instagram.com/knightgamer87/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+     <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
   Follow Me on Instagram
 </a>
     </h3>
