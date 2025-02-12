@@ -160,7 +160,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
       <br>
       <strong>HelpHub</strong>
       <br>
-      A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.  
+      A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.
     </td>
     <td align="center" width="300" height="200">
       <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png"  alt="Banana is Yellow!"/>
