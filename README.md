@@ -51,21 +51,21 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 <table>
   <tr>
-    <td align="center" width="300" height="200">
+    <td align="center" width="300" height="200" valign="top">
       <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png""  alt="HelpHub"/>
       <br>
       <strong>HelpHub</strong>
       <br>
       A web-based ticketing system for the Management Information System Office of DHVSU using PHP, Javascript, HTML, and CSS.
     </td>
-    <td align="center" width="300" height="200">
+    <td align="center" width="300" height="200" valign="top">
       <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png"  alt="Banana is Yellow!"/>
       <br>
       <strong>Banana is Yellow!</strong>
       <br>
       A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
     </td>
-    <td align="center" width="300" height="200">
+    <td align="center" width="300" height="200" valign="top">
       <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="3GenPharma"/>
       <br>
       <strong>3GenPharma</strong>
