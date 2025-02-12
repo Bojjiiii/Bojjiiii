@@ -53,34 +53,16 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
+      <th colspan="5" align="center" style="color: white;">Frontend</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
         </a>
         <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
       </td>
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
@@ -110,6 +92,7 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
   </tbody>
 </table>
 </div>
+
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -151,46 +134,15 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mariadb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+        <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/mariadb-icon.png" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
+
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 
 ## 🏆 Featured Projects
