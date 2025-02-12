@@ -16,28 +16,14 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat)  
 
 <div class="github-introduction">
-
-I am an aspiring developer
-I'm an **Aspiring Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
-
-Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
-
-</div>
-
-- 💼 Interested in working together? Reach out to me via <a href="mailto:code@aar.one">email.</a>
-- 💬 Got a question or just curious about something? Feel free to ask!
-
-<div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+Hey there! I'm a weeb, artist  and an aspiring developer!
 </div>
 
 ## 🌟 Featured Projects
 
-- **[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme** is a set of configuration files designed to give Windows an amazing visual overhaul with a sleek, violet-toned aesthetic. This theme applies consistent violet tones throughout the interface, providing a unique and cohesive look that enhances the user experience. In addition to the visual enhancements, I’ve also integrated several Linux-like functionalities into Windows, making the operating system more powerful and customizable for advanced users. Furthermore, I am working on custom glyphs to enhance the [Windows Terminal](https://github.com/microsoft/terminal) experience, making it more visually appealing and user-friendly.
-
+<img src="assets/images/3genpharma.png" alt="3Gen Pharma" width="10" height="10">
+**[Violet Void Theme](https://github.com/aaronedev/violet-void-theme)** 🟣: **Violet Void Theme**  
+- 
 - I am working on a comprehensive **PowerShell profile** that integrates all my custom configurations into a powerful and cohesive setup. This profile is designed to streamline workflows and enhance productivity by leveraging the full potential of PowerShell, combined with my Violet Void Theme. Additionally, I am developing this profile to be fully featured and driven by Linux-like commands, bringing the familiarity and efficiency of Linux command-line tools to the Windows environment. Once finalized, I plan to publish this profile so that others can benefit from a fully optimized and visually appealing PowerShell environment.
 
 ## 📈 My GitHub stats
