@@ -11,13 +11,13 @@
 ░░░█░░░█░░█░░░█░░░█████░█░░█░░░░░░█░░░█░░░░░░░░░████████░░██████░░█░░░█░░░░█░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
-# 
+
 # Welcome to my profile!
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat) ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Bojjiiii.Bojjiiiii&color=00cf00&style=flat)  
 
 <div class="github-introduction">
 
-
+I am an aspiring developer
 I'm an **Aspiring Developer** with a passion for bringing ideas to life in the browser. Growing up in the '90s and early 2000s, I fell in love with the internet, and that passion has driven me to design and develop websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. I specialize in creating websites for clients with functionalities such as booking systems for apartments, hotels, restaurants, and more.
 
 Additionally, I'm currently diving into the world of DevOps, expanding my skill set to streamline development processes and improve deployment efficiency.
@@ -44,8 +44,8 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=aBojjiiii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bojjiiii&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
 
