@@ -21,8 +21,8 @@ Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
 
 ## 🌟 Featured Projects
 <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/helphub%20logo.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **HelpHub**: A web-based ticketing system for the Management Information Office of DHVSU using PHP, Javascript, HTML, and CSS.  
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **[Banana is Yellow!]**: A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
-<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **[3GenPharma]**: A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
+<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/banana.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **Banana is Yellow!**: A web based POS for a Supermarket using PHP, Javascript, HTML, and CSS.  
+<img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/refs/heads/main/Felix%20portfolio/assets/images/3genpharma.png" alt="Banana is Yellow!" width="40" height="40"  class=""> **3GenPharma**: A web based pharmacy management system for a Clinic using PHP, Javascript, HTML, and CSS.
 
 
 ## 📈 My GitHub stats
