@@ -15,7 +15,7 @@
 # 
 
 <div class="github-introduction">
-Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!
+<h3>Hey there! I'm Jhon Felix Pascual, a weeb, artist  and an aspiring developer!</h3>
 </div>
 
 
