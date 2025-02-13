@@ -193,7 +193,7 @@
   <p>Discover my work and connect on these platforms!</p>
 
   <p>
-    <a href="https://bojjiiii.github.io" target="_blank">
+    <a href="https://dhvsuhelphub.com/felix-portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
     </a>
     <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank">
@@ -208,11 +208,7 @@
   </p>
 </div>
 
-<h1 align="center">🐍 GitHub Contribution Snake</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=60598F&style=flat&label=Profile+Views" alt="Profile views" width="200" height="35">
