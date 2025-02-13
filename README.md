@@ -208,7 +208,11 @@
   </p>
 </div>
 
+<h1 align="center">🐍 GitHub Contribution Snake</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bojjiiii/Bojjiiii/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bojjiiii&color=60598F&style=flat&label=Profile+Views" alt="Profile views" width="200" height="35">
