@@ -193,7 +193,7 @@
   <p>Discover my work and connect on these platforms!</p>
 
   <p>
-    <a href="https://dhvsuhelphub.com/felix-portfolio/" target="_blank">
+    <a href="https://bojjiiii.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website">
     </a>
     <a href="https://www.instagram.com/jhonfelix.pascual/" target="_blank">
